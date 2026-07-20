@@ -1,3 +1,3 @@
-# MZN Tech Magazine
+# Title : 
 
-## Issue #1
+## Sub Title :
